@@ -1,4 +1,4 @@
-<h1 align="center">❤️ Heart Disease Prediction</h1>
+<h1 align="center">❤️ Heart Disease Prediction.</h1>
 
 <p align="center">
   <i>Classifying whether a patient has heart disease from clinical measurements, comparing K-Nearest Neighbors (with hyperparameter tuning) against Gaussian Naive Bayes.</i>
